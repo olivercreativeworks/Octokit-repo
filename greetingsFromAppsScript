@@ -1,0 +1,6 @@
+/** 
+ * This is a greeting
+ */
+function greetings() {
+  console.log('This message is brought to you by my apps script project!')
+}
