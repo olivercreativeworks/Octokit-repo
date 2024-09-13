@@ -10,4 +10,5 @@ console.log('Testing code snippets')
 2. Second number bullet
 
 *Italics, I think*
+
 ***Italics and bold I believe***
