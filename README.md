@@ -5,6 +5,6 @@ console.log('Testing code snippets')
 ```
 ## Heading 2
 1. **Trying styled bullets**
-        * And sub bullets
-        * Second sub bullet
+  * And sub bullets
+  * Second sub bullet
 2. Second number bullet
